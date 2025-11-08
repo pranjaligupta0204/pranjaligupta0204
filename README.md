@@ -10,15 +10,15 @@
 
 ---
 
-### 👩‍💻 About Me
-- 🎓 B.Tech Computer Science | Jaypee University of Information Technology  
-- 💻 I love building user-focused tech products  
-- 🌱 Currently exploring **AI/ML**, **Web Dev**, and **Open Source**
-- 🌟 Focused on turning ideas into reality through code
+### About Me
+- B.Tech Computer Science | Jaypee University of Information Technology  
+- I love building user-focused tech products  
+- Currently exploring **AI/ML**, **Web Dev**, and **Open Source**
+- Focused on turning ideas into reality through code
 
 ---
 
-### 🔨 Tech Stack
+### Tech Stack
 
 **Languages:**  
 `C++` `Python` `JavaScript` `PHP` `SQL`  
@@ -26,21 +26,10 @@
 **Web & Tools:**  
 `HTML` `CSS` `VS Code` `Git & GitHub` `XAMPP` `Figma` `SimPy`  
 
----
-
-### 📌 Featured Projects
-
-#### 🚜 [KisanDirect](#)
-A web platform connecting farmers and consumers directly — promotes fair pricing and transparency.  
-*Built using HTML, CSS, JavaScript, PHP, and MySQL.*
-
-#### 📚 Junior-Senior Notes Sharing App
-A Python-Tkinter desktop app for seamless sharing of notes and doubts between students.  
-*Encourages academic collaboration.*
-
-#### ☕ Study Cafe Simulation  
-Simulates a ticket-based café system using Python and SimPy.  
-*Manages seat allocation, vending machines, and more with concurrency modeling.*
+<br/>
+<h3 align="center">
+My Tech Stacks
+</h3>
 
 ---
 
@@ -56,5 +45,12 @@ Simulates a ticket-based café system using Python and SimPy.
 ### 📫 Reach Me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/pranjali-gupta-/)
 - 📧 pranjaligupta0204@gmail.com
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=50"/>
+</p>
+
 
 
