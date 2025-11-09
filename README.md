@@ -26,11 +26,6 @@
 **Web & Tools:**  
 `HTML` `CSS` `VS Code` `Git & GitHub` `XAMPP` `Figma` `SimPy`  
 
-<br/>
-<h3 align="center">
-My Tech Stacks
-</h3>
-
 ---
 
 ### 📊 GitHub Stats
