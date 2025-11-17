@@ -26,6 +26,92 @@
 **Web & Tools:**  
 `HTML` `CSS` `VS Code` `Git & GitHub` `XAMPP` `Figma` `SimPy`  
 
+<h3 align="center" style="color:#cdd6f4;">Techstack and Others:</h3>
+<div align="center">
+<!-- Languages & Frameworks -->
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/Ahmad-Mtr/Ahmad-Mtr/main/assets/light/c.png" media="(prefers-color-scheme: light)" />
+    <source srcset="https://raw.githubusercontent.com/Ahmad-Mtr/Ahmad-Mtr/main/assets/dark/c.png" media="(prefers-color-scheme: dark)" />
+    <img src="https://raw.githubusercontent.com/Ahmad-Mtr/Ahmad-Mtr/main/assets/dark/c.png" alt="c" width="35" height="35" />
+  </picture>
+</a>
+<a href="https://flutter.dev" target="_blank" rel="noreferrer">
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/Ahmad-Mtr/Ahmad-Mtr/main/assets/light/flutter.png" media="(prefers-color-scheme: light)" />
+    <source srcset="https://raw.githubusercontent.com/Ahmad-Mtr/Ahmad-Mtr/main/assets/dark/flutter.png" media="(prefers-color-scheme: dark)" />
+    <img src="https://raw.githubusercontent.com/Ahmad-Mtr/Ahmad-Mtr/main/assets/dark/flutter.png" alt="flutter" width="35" height="35" />
+  </picture>
+</a>
+<a href="https://appwrite.io" target="_blank" rel="noreferrer">
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/Ahmad-Mtr/Ahmad-Mtr/main/assets/light/appwrite.png" media="(prefers-color-scheme: light)" />
+    <source srcset="https://raw.githubusercontent.com/Ahmad-Mtr/Ahmad-Mtr/main/assets/dark/appwrite.png" media="(prefers-color-scheme: dark)" />
+    <img src="https://raw.githubusercontent.com/Ahmad-Mtr/Ahmad-Mtr/main/assets/dark/appwrite.png" alt="Appwrite" width="35" height="35" />
+  </picture>
+</a>
+<!-- Tools -->
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/Ahmad-Mtr/Ahmad-Mtr/main/assets/light/azure.png" media="(prefers-color-scheme: light)" />
+    <source srcset="https://raw.githubusercontent.com/Ahmad-Mtr/Ahmad-Mtr/main/assets/dark/azure.png" media="(prefers-color-scheme: dark)" />
+    <img src="https://raw.githubusercontent.com/Ahmad-Mtr/Ahmad-Mtr/main/assets/dark/azure.png" alt="azure" width="35" height="35" />
+  </picture>
+</a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/Ahmad-Mtr/Ahmad-Mtr/main/assets/light/mysql.png" media="(prefers-color-scheme: light)" />
+    <source srcset="https://raw.githubusercontent.com/Ahmad-Mtr/Ahmad-Mtr/main/assets/dark/mysql.png" media="(prefers-color-scheme: dark)" />
+    <img src="https://raw.githubusercontent.com/Ahmad-Mtr/Ahmad-Mtr/main/assets/dark/mysql.png" alt="mysql" width="35" height="35" />
+  </picture>
+</a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/Ahmad-Mtr/Ahmad-Mtr/main/assets/light/docker.png" media="(prefers-color-scheme: light)" />
+    <source srcset="https://raw.githubusercontent.com/Ahmad-Mtr/Ahmad-Mtr/main/assets/dark/docker.png" media="(prefers-color-scheme: dark)" />
+    <img src="https://raw.githubusercontent.com/Ahmad-Mtr/Ahmad-Mtr/main/assets/dark/docker.png" alt="docker" width="35" height="35" />
+  </picture>
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/Ahmad-Mtr/Ahmad-Mtr/main/assets/light/git.png" media="(prefers-color-scheme: light)" />
+    <source srcset="https://raw.githubusercontent.com/Ahmad-Mtr/Ahmad-Mtr/main/assets/dark/git.png" media="(prefers-color-scheme: dark)" />
+    <img src="https://raw.githubusercontent.com/Ahmad-Mtr/Ahmad-Mtr/main/assets/dark/git.png" alt="git" width="35" height="35" />
+  </picture>
+</a>
+<a href="https://github.com/PowerShell/PowerShell" target="_blank" rel="noreferrer">
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/Ahmad-Mtr/Ahmad-Mtr/main/assets/light/powershell.png" media="(prefers-color-scheme: light)" />
+    <source srcset="https://raw.githubusercontent.com/Ahmad-Mtr/Ahmad-Mtr/main/assets/dark/powershell.png" media="(prefers-color-scheme: dark)" />
+    <img src="https://raw.githubusercontent.com/Ahmad-Mtr/Ahmad-Mtr/main/assets/dark/powershell.png" alt="Power Shell" width="35" height="35" />
+  </picture>
+</a>
+<!-- Editors -->
+<a href="https://vscode.dev/" target="_blank" rel="noreferrer">
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/Ahmad-Mtr/Ahmad-Mtr/main/assets/light/vscode.png" media="(prefers-color-scheme: light)" />
+    <source srcset="https://raw.githubusercontent.com/Ahmad-Mtr/Ahmad-Mtr/main/assets/dark/vscode.png" media="(prefers-color-scheme: dark)" />
+    <img src="https://raw.githubusercontent.com/Ahmad-Mtr/Ahmad-Mtr/main/assets/dark/vscode.png" alt="vscode" width="35" height="35" />
+  </picture>
+</a>
+<!-- Others -->
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/Ahmad-Mtr/Ahmad-Mtr/main/assets/light/figma.png" media="(prefers-color-scheme: light)" />
+    <source srcset="https://raw.githubusercontent.com/Ahmad-Mtr/Ahmad-Mtr/main/assets/dark/figma.png" media="(prefers-color-scheme: dark)" />
+    <img src="https://raw.githubusercontent.com/Ahmad-Mtr/Ahmad-Mtr/main/assets/dark/figma.png" alt="figma" width="35" height="35" />
+  </picture>
+</a>
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/Ahmad-Mtr/Ahmad-Mtr/main/assets/light/photoshop.png" media="(prefers-color-scheme: light)" />
+    <source srcset="https://raw.githubusercontent.com/Ahmad-Mtr/Ahmad-Mtr/main/assets/dark/photoshop.png" media="(prefers-color-scheme: dark)" />
+    <img src="https://raw.githubusercontent.com/Ahmad-Mtr/Ahmad-Mtr/main/assets/dark/photoshop.png" alt="photoshop" width="35" height="35" />
+  </picture>
+</a>
+
+
+
 ---
 
 ### 📊 GitHub Stats
@@ -37,15 +123,11 @@
 
 ---
 
-### 📫 Reach Me
-- 🔗 [LinkedIn](https://www.linkedin.com/in/pranjali-gupta-/)
-- 📧 pranjaligupta0204@gmail.com
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=50"/>
 </p>
+
+---
 
 
 
