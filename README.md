@@ -122,6 +122,18 @@
 </p>
 
 ---
+<h2 align="center">🟡 Pac-Man Contribution Graph</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranjaligupta0204/pranjaligupta0204/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranjaligupta0204/pranjaligupta0204/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pranjaligupta0204/pranjaligupta0204/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
+
+---
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
