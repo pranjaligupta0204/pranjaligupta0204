@@ -1,6 +1,6 @@
 # Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 <h1 align="center">Hi! I'm Pranjali Gupta</h1>
-<h3 align="center">Computer Science Undergraduate | Web Developer | Tech Enthusiast</h3>
+<h3 align="center">Computer Science Undergraduate | ML Engineer | Tech Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/pranjaligupta0204"><img src="https://img.shields.io/github/followers/pranjaligupta0204?label=GitHub&style=social"></a>
